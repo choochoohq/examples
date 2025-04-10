@@ -9,7 +9,7 @@ import router from './router'
 
 const app = createApp(App)
 app.use(createPinia())
-app.use(ChoochooWidget)
+app.use(ChoochooWidget as any)
 app.use(router)
 
 app.mount('#app')
