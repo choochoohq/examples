@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@choochoohq/widget-vue':
-        specifier: ^0.4.5
-        version: 0.4.5(typescript@5.8.3)
+        specifier: ^0.4.6
+        version: 0.4.6(typescript@5.8.3)
       i:
         specifier: ^0.3.7
         version: 0.3.7
@@ -251,11 +251,11 @@ packages:
   '@choochoohq/sdk@0.3.3':
     resolution: {integrity: sha512-j+G0oU9ey7hU7j0LktZ3tgOiuI99Y7MEf2nyxdjYCnC8ytGQLFn2E5opHLRJ52hQBHhED/+C/FywZCsUh+RTkA==}
 
-  '@choochoohq/widget-vue@0.4.5':
-    resolution: {integrity: sha512-UZHAAqSCPzmfqrHWypxfxGqN9cgm5F2tZgkb1EcES/wP6Nr69LQmDIAEbPJWAxJIFQOYvB2sFMTRJKqAg5K/Gg==}
+  '@choochoohq/widget-vue@0.4.6':
+    resolution: {integrity: sha512-0Z/lMgTXPiTwgxk910JwhWH6sS0HoUrRz5RNozLYGt8V0HxdjmFglDs9dt7LSGoeAnen1DaxpFBwynM258/nVA==}
 
-  '@choochoohq/widget@0.4.4':
-    resolution: {integrity: sha512-RVbdbKLnUNcnJdbEc4JrGj6o/GbDfIvM5MDOqiY72W7P5kEKmzqGAzucUVAnTRld1VBrEJ5QlMo1GEwa8UZQ+g==}
+  '@choochoohq/widget@0.4.5':
+    resolution: {integrity: sha512-E0BSRqrOp7JKrw/qDuXD26IBLvy7hgz0SuQdQxncCq/2EdLYYbaUjsJ7XIT3MoZObZ1vaC+7++TegyPV0vJoKg==}
 
   '@csstools/color-helpers@5.0.2':
     resolution: {integrity: sha512-JqWH1vsgdGcw2RR6VliXXdA0/59LttzlU8UlRT/iUUsEeWfYq8I+K0yhihEUTTHLRm1EXvpsCx3083EU15ecsA==}
@@ -2476,14 +2476,14 @@ snapshots:
     dependencies:
       uuid: 11.1.0
 
-  '@choochoohq/widget-vue@0.4.5(typescript@5.8.3)':
+  '@choochoohq/widget-vue@0.4.6(typescript@5.8.3)':
     dependencies:
-      '@choochoohq/widget': 0.4.4
+      '@choochoohq/widget': 0.4.5
       vue: 3.5.13(typescript@5.8.3)
     transitivePeerDependencies:
       - typescript
 
-  '@choochoohq/widget@0.4.4':
+  '@choochoohq/widget@0.4.5':
     dependencies:
       '@choochoohq/sdk': 0.3.3
       uuid: 11.1.0

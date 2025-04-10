@@ -17,7 +17,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@choochoohq/widget-vue": "^0.4.5",
+    "@choochoohq/widget-vue": "^0.4.6",
     "i": "^0.3.7",
     "pinia": "^3.0.1",
     "vue": "^3.5.13",
